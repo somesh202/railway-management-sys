@@ -1,4 +1,3 @@
-// controllers/trainController.js
 
 const Train = require("../models/Train");
 

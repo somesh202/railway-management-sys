@@ -1,4 +1,3 @@
-// models/User.js
 
 const connection = require("../config/dbConfig");
 

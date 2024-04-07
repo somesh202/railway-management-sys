@@ -1,4 +1,3 @@
-// models/Train.js
 
 const connection = require("../config/dbConfig");
 
